@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search">SEARCH</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="_5_days_3_hour_forecast">5 days / 3 hour forecast</string>
+</resources>
